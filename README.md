@@ -12,6 +12,10 @@ aircraft broker dealership because, well, I love general aviation. The site will
 display aircraft for sale and allow interested users to request contact from a
 sales person.
 
+Planning documentation for the site is included in:
+- User Stories.docx - the user stores for required functionality
+- /wireframes - screen layouts
+
 ##### Basic functionality
 - When users access the site, a home page will welcome them.
 - Clicking/tapping the *Aircraft* nav menu item will direct users to a list of aircraft available for sale.
