@@ -14,7 +14,7 @@ sales person.
 
 Planning documentation for the site is included in:
 - User Stories.docx - the user stores for required functionality
-- /wireframes - screen layouts
+- /wireframes - screen layouts, open the .html versions for easy viewing in browser
 
 ##### Basic functionality
 - When users access the site, a home page will welcome them.
