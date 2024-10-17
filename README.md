@@ -16,7 +16,7 @@ Requirements and design documentation is included in the design-documents folder
 
 - project1-requirements.pdf (self-explanatory)
 - User Stories.docx - the user stories for required functionality
-- /wireframes - contains the wireframes and wireflow created using draw.io. For easy viewing in a browser, download and open the .html versions.
+- /wireframes - contains the wireframes and wireflow created using draw.io. PDF versions are available for For easy viewing.
 
 All website code, styles, and images in included in the website folder.
 
