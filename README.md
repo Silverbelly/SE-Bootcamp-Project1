@@ -20,7 +20,7 @@ Requirements and design documentation is included in the design-documents folder
 
 All website code, styles, and images in included in the website folder.
 
-The website is hosted on Github pages [here](https://silverbelly.github.io/SE-Bootcamp-Project1/website)
+The website is hosted on Github pages [https://silverbelly.github.io/SE-Bootcamp-Project1/website](https://silverbelly.github.io/SE-Bootcamp-Project1/website)
 
 ##### Basic functionality
 
