@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 /*
-*   Aircraft broker custom styles 
+*   Alpha Sierra custom styles 
 */
 #alpha-sierra-logo {
   width: 3rem;
@@ -15,7 +15,13 @@
   color: red;
 }
 
-/* bootstrap overrides */
+.as-bg-body {
+  background-color: silver;
+}
+
+/* 
+*   bootstrap overrides
+*/
 
 #home-aircraft-carousel {
   width: 50%;
@@ -24,4 +30,6 @@
 
 .btn-primary {
   background-color: #00009a;
+  border-color: #00009a;
 }
+
