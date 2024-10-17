@@ -15,8 +15,12 @@ sales person.
 Requirements and design documentation is included in the design-documents folder.
 
 - project1-requirements.pdf (self-explanatory)
-- User Stories.docx - the user stores for required functionality
-- /wireframes - contains the wireframes and wireflow created using draw.io. Open the .html versions for easy viewing in a browser.
+- User Stories.docx - the user stories for required functionality
+- /wireframes - contains the wireframes and wireflow created using draw.io. For easy viewing in a browser, download and open the .html versions.
+
+All website code, styles, and images in included in the website folder.
+
+The website is hosted on Github pages [here](https://silverbelly.github.io/SE-Bootcamp-Project1/website)
 
 ##### Basic functionality
 
@@ -28,7 +32,7 @@ Requirements and design documentation is included in the design-documents folder
 ##### Technologies Used
 
 - HTML
-- Bootstrap is leveraged for components (carousel, nav bar w/hamburger) creating a consistant look and feel.
+- Bootstrap is leveraged for components (carousel, nav bar w/hamburger) creating a consistent look and feel.
 - CSS is implemented in an custom style sheet for overriding Bootstrap colors and fonts.
 
 ##### Future Improvements
